@@ -69,7 +69,7 @@ print(results.scores)         # [85, 42, 91, 67, 50, 73, 100, 38, 58]  ← beze 
 
 results = StudentsGrades([85, 42, 91, 67, 50, 73, 100, 38, 58])
 print(f"Test psalo: {results.count()}")
-# for i, score in enumerate(results):
+# for i, score in enumerate(results):jk
 #     print(f"Student {i}: {results[score]} points - {results.get_grade(score)}")
 
 # for i, score in enumerate(self.scores):
